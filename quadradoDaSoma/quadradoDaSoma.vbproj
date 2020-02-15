@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>quadradoDaSoma</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\pricilla.scsilva\Desktop\EX_VB_SENAC_JABAQUARA_PRICILLA\Program.vb" Link="Program.vb" />
+  </ItemGroup>
+
+</Project>
